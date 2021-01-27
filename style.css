@@ -1,1 +1,37 @@
-
+body{
+  background-color:#E0E0E0;
+    font-family: 'Dancing Script',cursive;
+    margin: 0;
+}
+hr{
+  border-style: dotted;
+  border-color: #191970;
+}
+p{
+  color: #191970;
+margin-left: 10px
+}
+h1{
+    margin: 0;
+}
+h3{
+  margin-left: 10px;
+}
+.Help{
+  background-color: #CCCCCC;
+ border-radius:15px;
+ border-top:0;
+}
+.Main{
+  background-color: #E0E0E0;
+  margin-left: 10px;
+}
+.Photo{
+  border-radius: 15px;
+}
+font{
+  color: #191970;
+}
+table{
+  margin: 0;
+}
