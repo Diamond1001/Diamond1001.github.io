@@ -1,0 +1,86 @@
+.Top{
+background-color: #000000		;
+height: 100px;
+margin-top: 0;
+margin-bottom: 0;
+}
+body{
+  margin: 0;
+  background-color: #000000	;
+  font-family: 'Dancing Script',cursive;
+}
+h1{
+  color: #FFFFFF	;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.photos{
+  background-color: #A9A9A9		;
+  margin-top: 0;
+  border:10;
+  margin-bottom: 0;
+}
+p{
+  margin: 0;
+}
+.help{
+  color: white;
+  margin: 0;
+}
+.Assylay{
+  border-radius: 25px;
+}
+.Almaz{
+  position: absolute;
+  left: 10px;
+  border-radius: 25px;
+}
+.Aman{
+  position: absolute;
+  right:10px;
+  border-radius: 25px;
+}
+.block1{
+  background-color: #808080	;
+  height:230px;
+  width: 450px;
+  position: absolute;
+  left:0;
+}
+.block2{
+  background-color: #808080	;
+  height:230px;
+  width: 450px;
+  position: absolute;
+  right: 520px;
+  border-radius:10px;
+}
+
+.block3{
+  background-color: #808080	;
+  height:230px;
+  width: 450px;
+  position:absolute;
+  right: 0;
+}
+.test3{
+  position: absolute;
+  left:300px;
+}
+.test4{
+  position: absolute;
+  right: 300px;
+}
+h2{
+  margin-top: 100px;
+}
+.kas1{
+  position: absolute;
+  left: 280px;
+  top: 150px;
+}
+.kas2{
+  position: absolute;
+right: 280px;
+top: 150px;
+}
