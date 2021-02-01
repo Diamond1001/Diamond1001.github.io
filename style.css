@@ -1,37 +1,54 @@
+html{
+  overflow-x: hidden;
+}
 body{
-  background-color:#E0E0E0;
-    font-family: 'Dancing Script',cursive;
-    margin: 0;
-}
-hr{
-  border-style: dotted;
-  border-color: #191970;
-}
-p{
-  color: #191970;
-margin-left: 10px
-}
-h1{
-    margin: 0;
-}
-h3{
-  margin-left: 10px;
-}
-.Help{
-  background-color: #CCCCCC;
- border-radius:15px;
- border-top:0;
-}
-.Main{
-  background-color: #E0E0E0;
-  margin-left: 10px;
-}
-.Photo{
-  border-radius: 15px;
-}
-font{
-  color: #191970;
-}
-table{
   margin: 0;
+  font-family: 'Dancing Script', cursive;
+}
+#Title{
+  text-align: center;
+  color: white;
+}
+#About{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url(https://media.istockphoto.com/photos/blue-abstract-background-or-texture-picture-id1138395421?k=6&m=1138395421&s=612x612&w=0&h=bJ1SRWujCgg3QWzkGPgaRiArNYohPl7-Wc4p_Fa_cyA=);
+  background-size: cover;
+  color: yellow;
+}
+#Almaz{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+ background-image: url(https://i.ytimg.com/vi/YDcGlzUgDBI/maxresdefault.jpg);
+ background-size: cover;
+ color: white;
+}
+#Work{
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 100px;
+background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-original-hand-drawn-cartoon-business-work-background-image_274342.jpg);
+background-size: cover;
+}
+.Aaalmaz{
+  background-image: url(https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-25.jpg)	;
+  padding: 20px 15%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.Aalmaz{
+  padding-top: 75px;
+}
+.Inform{
+  text-align: center;
+  padding-top: 25px;
+}
+.Phrase{
+  padding-top: 50px;
+}
+.Almazphoto{
+  border-radius: 30px;
+  background-color: #FDF5E6	;
 }
